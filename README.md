@@ -1,8 +1,8 @@
-To run iTreeFinalProject you must fork two repositories:
+***To run iTreeFinalProject you must fork two repositories:***
 
-https://github.com/maziliag/iTreeFinalAngular       for front-end
+https://github.com/maziliag/iTreeFinalAngular       *for front-end*
 
-https://github.com/maziliag/iTreeFinalSpringBoot    for back-end (current rep)
+https://github.com/maziliag/iTreeFinalSpringBoot    *for back-end (current rep)*
 
 
 Recommended way to get the app running
