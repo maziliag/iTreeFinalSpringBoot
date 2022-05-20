@@ -15,12 +15,18 @@ Recommended way to get the app running
 *Check out this tutorial for a smoother Maven installation*
 https://www.youtube.com/watch?v=RfCWg5ay5B0
 
-3. Open the the folder that you have forked in Eclipse (back-end)
+3. Open the the folder that you have forked in Eclipse (back-end) and open pom.xml
+   In plugins section paste changing maven version to yours
+   <plugin>
+     <groupId>org.apache.maven.plugins</groupId>
+     <artifactId>maven-resources-plugin</artifactId>
+     <version>3.1.0</version>  
+   </plugin>               
 4. In package explorer navigate to:
    iTreeFinalSpringBoot-main/src.main.java.com.finaltest.NaujokuManageris
-4. Right click on NaujokuManagerisApplication.java 
+5. Right click on NaujokuManagerisApplication.java 
    and select Run As/Java Application
-5. You have successfully started back-end of your application
+6. You have successfully started back-end of your application
 
 **Front-end**
 1. Install VS Code IDE
