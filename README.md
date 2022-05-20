@@ -9,9 +9,10 @@ Recommended way to get the app running
 
 **Back-end**
 1. Install Eclipse IDE
-2. Open the the folder that you have forked in Eclipse (back-end)
-3. In package explorer navigate to:
-   src/main/java/com.finaltest.NaujokuManageris
+2. Install java JDK and Maven
+3. Open the the folder that you have forked in Eclipse (back-end)
+4. In package explorer navigate to:
+   iTreeFinalSpringBoot-main/src.main.java.com.finaltest.NaujokuManageris
 4. Right click on NaujokuManagerisApplication.java 
    and select Run As/Java Application
 5. You have successfully started back-end of your application
