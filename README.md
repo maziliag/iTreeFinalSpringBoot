@@ -9,7 +9,12 @@ Recommended way to get the app running
 
 **Back-end**
 1. Install Eclipse IDE
-2. Install java JDK and Maven
+2. Install java JDK from https://www.oracle.com/java/technologies/downloads/#jdk18-windows
+   and Maven from https://maven.apache.org/install.html
+   
+*Check out this tutorial for a smoother Maven installation*
+https://www.youtube.com/watch?v=RfCWg5ay5B0
+
 3. Open the the folder that you have forked in Eclipse (back-end)
 4. In package explorer navigate to:
    iTreeFinalSpringBoot-main/src.main.java.com.finaltest.NaujokuManageris
