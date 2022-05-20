@@ -1,4 +1,4 @@
-***To run iTreeFinalProject you must fork two repositories:***
+***To run iTreeFinalProject you must download two repositories:***
 
 https://github.com/maziliag/iTreeFinalAngular       *for front-end*
 
