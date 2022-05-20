@@ -30,12 +30,13 @@ https://www.youtube.com/watch?v=RfCWg5ay5B0
 
 **Front-end**
 1. Install VS Code IDE
-2. Open the the folder that you have forked in VS Code (front-end)
+2. Open the the folder that you have downloaded in VS Code (front-end)
 3. Make sure you have Node js and npm installed
-4. Install angular CLI. Open terminal and type
+4. Install angular CLI. Open terminal  and type
    npm install - g @angular/cli
-4. Open a new terminal in VS Code and type -> ng serve
-5. You have successfully started front-end of your application
+5. Open a new terminal in VS Code and install missing node packages
+   Type into terminal -> npm i
+6. Run your application by typing to terminal -> ng serve
 
 
 **Project functionality**
